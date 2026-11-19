@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="6127ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Cruella -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="6127ms" clipEnd="6827ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- De -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="6827ms" clipEnd="7191ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Vil -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="7191ms" clipEnd="9801ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Written -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="9801ms" clipEnd="10291ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="10291ms" clipEnd="10451ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Brooke -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="10451ms" clipEnd="10681ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Vitale -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="10681ms" clipEnd="11361ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="11361ms" clipEnd="11991ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="11991ms" clipEnd="12181ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- the -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="12181ms" clipEnd="12301ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Disney -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="12301ms" clipEnd="12761ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="12761ms" clipEnd="13421ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Art -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="13421ms" clipEnd="13701ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Team -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="13701ms" clipEnd="13951ms" src="../audio/9781368021098.m4a"/>
+		</par>
+		<par id="id14g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="13951ms" clipEnd="16383ms" src="../audio/9781368021098.m4a"/>
+		</par>
+	</body>
+</smil>

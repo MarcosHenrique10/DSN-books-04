@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="0ms" clipEnd="5298ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Maleficent -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5298ms" clipEnd="7194ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Written -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="7194ms" clipEnd="7914ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- by -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="7914ms" clipEnd="8104ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Brooke -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="8104ms" clipEnd="8364ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Vitale -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="8364ms" clipEnd="9044ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="9044ms" clipEnd="10174ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- by -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="10174ms" clipEnd="10324ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- the -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="10324ms" clipEnd="10534ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Disney -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="10534ms" clipEnd="10984ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="10984ms" clipEnd="11844ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Art -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="11844ms" clipEnd="12104ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Team -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="12104ms" clipEnd="12874ms" src="../audio/9781368021128.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="12874ms" clipEnd="13531ms" src="../audio/9781368021128.m4a"/>
+		</par>
+	</body>
+</smil>

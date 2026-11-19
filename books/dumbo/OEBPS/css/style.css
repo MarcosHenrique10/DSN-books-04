@@ -1,0 +1,248 @@
+@font-face {
+	font-family:"arial";
+	src: url(../fonts/arial.ttf);
+}
+
+@font-face {
+	font-family:"agarampr";
+	src: url(../fonts/agarampr.ttf);
+}
+
+@font-face {
+	font-family:"Perpetua";
+	src: url(../fonts/Perpetua.ttf);
+}
+
+@font-face {
+	font-family:"PerpetuaItalic";
+	src: url(../fonts/PerpetuaItalic.ttf);
+}
+
+
+img{z-index:-1;}body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.nonindent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-size: 26px;
+	line-height: 33px;
+	text-align: left;
+	text-indent: 28px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Perpetua";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 688px;
+	left: 90px;
+	right: 0px;
+width: 587px;height: 159px;}
+div.page3_item1{
+	position: absolute;
+	top: 51px;
+	left: 187px;
+	right: 0px;
+width: 408px;height: 210px;}
+div.page4_item1{
+	position: absolute;
+	top: 48px;
+	left: 100px;
+	right: 0px;
+width: 606px;height: 99px;}
+div.page5_item1{
+	position: absolute;
+	top: 47px;
+	left: 316px;
+	right: 0px;
+width: 541px;height: 141px;}
+div.page6_item1{
+	position: absolute;
+	top: 833px;
+	left: 56px;
+	right: 0px;
+width: 686px;height: 110px;}
+div.page8_item1{
+	position: absolute;
+	top: 730px;
+	left: 58px;
+	right: 0px;
+width: 621px;height: 202px;}
+div.page10_item1{
+	position: absolute;
+	top: 830px;
+	left: 58px;
+	right: 0px;
+width: 617px;height: 100px;}
+div.page12_item1{
+	position: absolute;
+	top: 833px;
+	left: 58px;
+	right: 0px;
+width: 692px;height: 106px;}
+div.page15_item1{
+	position: absolute;
+	top: 169px;
+	left: 58px;
+	right: 0px;
+width: 589px;height: 148px;}
+div.page16_item1{
+	position: absolute;
+	top: 52px;
+	left: 393px;
+	right: 0px;
+width: 361px;height: 235px;}
+div.page19_item1{
+	position: absolute;
+	top: 757px;
+	left: 138px;
+	right: 0px;
+width: 528px;height: 137px;}
+div.page20_item1{
+	position: absolute;
+	top: 51px;
+	left: 58px;
+	right: 0px;
+width: 545px;height: 169px;}
+div.page22_item1{
+	position: absolute;
+	top: 50px;
+	left: 58px;
+	right: 0px;
+width: 385px;height: 304px;}
+div.page24_item1{
+	position: absolute;
+	top: 51px;
+	left: 138px;
+	right: 0px;
+width: 572px;height: 146px;}
+div.page26_item1{
+	position: absolute;
+	top: 51px;
+	left: 58px;
+	right: 0px;
+width: 610px;height: 139px;}
+div.page28_item1{
+	position: absolute;
+	top: 78px;
+	left: 119px;
+	right: 0px;
+width: 605px;height: 280px;}
+div.page29_item1{
+	position: absolute;
+	top: 832px;
+	left: 58px;
+	right: 0px;
+width: 699px;height: 116px;}
+div.page30_item1{
+	position: absolute;
+	top: 101px;
+	left: 128px;
+	right: 0px;
+width: 580px;height: 133px;}
+div.page31_item1{
+	position: absolute;
+	top: 557px;
+	left: 100px;
+	right: 0px;
+width: 639px;height: 351px;}
+div.page33_item1{
+	position: absolute;
+	top: 664px;
+	left: 100px;
+	right: 0px;
+width: 624px;height: 275px;}
+div.page34_item1{
+	position: absolute;
+	top: 764px;
+	left: 58px;
+	right: 0px;
+width: 561px;height: 174px;}
+div.page36_item1{
+	position: absolute;
+	top: 50px;
+	left: 129px;
+	right: 0px;
+width: 560px;height: 142px;}
+div.page38_item1{
+	position: absolute;
+	top: 50px;
+	left: 114px;
+	right: 0px;
+width: 596px;height: 144px;}
+
+span.arial
+{
+	font-family:"arial";
+}
+p.copy{
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 21px;
+	font-family:"agarampr";
+   word-spacing: 2px;
+color: #FFFFFF;
+}
+span.italic
+{
+	font-family:"PerpetuaItalic";
+}
+p.indent1{
+	font-size: 26px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 28px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Perpetua";
+}
+
+.media-overlay-active { color:#f00 !important; }
