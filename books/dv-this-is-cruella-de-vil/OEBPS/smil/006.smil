@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id27g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="27823ms" clipEnd="28075ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- Cruella -->
+			<text src="../006.xhtml#w27"/>
+			<audio clipBegin="28075ms" clipEnd="28625ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- visits -->
+			<text src="../006.xhtml#w28"/>
+			<audio clipBegin="28625ms" clipEnd="29035ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- her -->
+			<text src="../006.xhtml#w29"/>
+			<audio clipBegin="29035ms" clipEnd="29165ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- friend -->
+			<text src="../006.xhtml#w30"/>
+			<audio clipBegin="29165ms" clipEnd="29615ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- Anita -->
+			<text src="../006.xhtml#w31"/>
+			<audio clipBegin="29615ms" clipEnd="30765ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- Anita -->
+			<text src="../006.xhtml#w32"/>
+			<audio clipBegin="30765ms" clipEnd="31155ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- and -->
+			<text src="../006.xhtml#w33"/>
+			<audio clipBegin="31155ms" clipEnd="31335ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- her -->
+			<text src="../006.xhtml#w34"/>
+			<audio clipBegin="31335ms" clipEnd="31505ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- husband -->
+			<text src="../006.xhtml#w35"/>
+			<audio clipBegin="31505ms" clipEnd="32315ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- Roger -->
+			<text src="../006.xhtml#w36"/>
+			<audio clipBegin="32315ms" clipEnd="33035ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- have -->
+			<text src="../006.xhtml#w37"/>
+			<audio clipBegin="33035ms" clipEnd="33275ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- two -->
+			<text src="../006.xhtml#w38"/>
+			<audio clipBegin="33275ms" clipEnd="33495ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- dogs -->
+			<text src="../006.xhtml#w39"/>
+			<audio clipBegin="33495ms" clipEnd="34085ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id39g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="34085ms" clipEnd="34595ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

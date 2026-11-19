@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id269g">
+			<!--  -->
+			<text src="../029.xhtml#empty"/>
+			<audio clipBegin="173110ms" clipEnd="173625ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id269">
+			<!-- The -->
+			<text src="../029.xhtml#w269"/>
+			<audio clipBegin="173625ms" clipEnd="173695ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id270">
+			<!-- dogs -->
+			<text src="../029.xhtml#w270"/>
+			<audio clipBegin="173695ms" clipEnd="174185ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id271">
+			<!-- get -->
+			<text src="../029.xhtml#w271"/>
+			<audio clipBegin="174185ms" clipEnd="174345ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id272">
+			<!-- into -->
+			<text src="../029.xhtml#w272"/>
+			<audio clipBegin="174345ms" clipEnd="174525ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id273">
+			<!-- a -->
+			<text src="../029.xhtml#w273"/>
+			<audio clipBegin="174525ms" clipEnd="174595ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id274">
+			<!-- truck -->
+			<text src="../029.xhtml#w274"/>
+			<audio clipBegin="174595ms" clipEnd="175165ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id275">
+			<!-- The -->
+			<text src="../029.xhtml#w275"/>
+			<audio clipBegin="175165ms" clipEnd="175245ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- truck -->
+			<text src="../029.xhtml#w276"/>
+			<audio clipBegin="175245ms" clipEnd="175655ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- drives -->
+			<text src="../029.xhtml#w277"/>
+			<audio clipBegin="175655ms" clipEnd="176075ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id278">
+			<!-- away -->
+			<text src="../029.xhtml#w278"/>
+			<audio clipBegin="176075ms" clipEnd="176955ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id279">
+			<!-- Cruella -->
+			<text src="../029.xhtml#w279"/>
+			<audio clipBegin="176955ms" clipEnd="177485ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id280">
+			<!-- speeds -->
+			<text src="../029.xhtml#w280"/>
+			<audio clipBegin="177485ms" clipEnd="178165ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id281">
+			<!-- after -->
+			<text src="../029.xhtml#w281"/>
+			<audio clipBegin="178165ms" clipEnd="178435ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id282">
+			<!-- them -->
+			<text src="../029.xhtml#w282"/>
+			<audio clipBegin="178435ms" clipEnd="178705ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id282g">
+			<!--  -->
+			<text src="../029.xhtml#empty1"/>
+			<audio clipBegin="178705ms" clipEnd="179720ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

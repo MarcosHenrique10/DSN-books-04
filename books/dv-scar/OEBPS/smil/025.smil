@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id277g">
+			<!--  -->
+			<text src="../025.xhtml#empty"/>
+			<audio clipBegin="177608ms" clipEnd="178148ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- Scar -->
+			<text src="../025.xhtml#w277"/>
+			<audio clipBegin="178148ms" clipEnd="179108ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id278">
+			<!-- takes -->
+			<text src="../025.xhtml#w278"/>
+			<audio clipBegin="179108ms" clipEnd="179558ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id279">
+			<!-- his -->
+			<text src="../025.xhtml#w279"/>
+			<audio clipBegin="179558ms" clipEnd="179808ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id280">
+			<!-- place -->
+			<text src="../025.xhtml#w280"/>
+			<audio clipBegin="179808ms" clipEnd="180438ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id281">
+			<!-- on -->
+			<text src="../025.xhtml#w281"/>
+			<audio clipBegin="180438ms" clipEnd="180758ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id282">
+			<!-- Pride -->
+			<text src="../025.xhtml#w282"/>
+			<audio clipBegin="180758ms" clipEnd="181358ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id283">
+			<!-- Rock -->
+			<text src="../025.xhtml#w283"/>
+			<audio clipBegin="181358ms" clipEnd="182598ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id284">
+			<!-- He -->
+			<text src="../025.xhtml#w284"/>
+			<audio clipBegin="182598ms" clipEnd="183228ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id285">
+			<!-- is -->
+			<text src="../025.xhtml#w285"/>
+			<audio clipBegin="183228ms" clipEnd="183458ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id286">
+			<!-- the -->
+			<text src="../025.xhtml#w286"/>
+			<audio clipBegin="183458ms" clipEnd="183608ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id287">
+			<!-- king -->
+			<text src="../025.xhtml#w287"/>
+			<audio clipBegin="183608ms" clipEnd="184458ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id288">
+			<!-- at -->
+			<text src="../025.xhtml#w288"/>
+			<audio clipBegin="184458ms" clipEnd="184748ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id289">
+			<!-- last -->
+			<text src="../025.xhtml#w289"/>
+			<audio clipBegin="184748ms" clipEnd="185908ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id289g">
+			<!--  -->
+			<text src="../025.xhtml#empty1"/>
+			<audio clipBegin="185908ms" clipEnd="186908ms" src="../audio/9781368042529.m4a"/>
+		</par>
+	</body>
+</smil>

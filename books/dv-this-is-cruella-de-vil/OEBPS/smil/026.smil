@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id230g">
+			<!--  -->
+			<text src="../026.xhtml#empty"/>
+			<audio clipBegin="148510ms" clipEnd="149535ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id230">
+			<!-- Cruella -->
+			<text src="../026.xhtml#w230"/>
+			<audio clipBegin="149535ms" clipEnd="149955ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- sees -->
+			<text src="../026.xhtml#w231"/>
+			<audio clipBegin="149955ms" clipEnd="150335ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id232">
+			<!-- dog -->
+			<text src="../026.xhtml#w232"/>
+			<audio clipBegin="150335ms" clipEnd="150715ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id233">
+			<!-- tracks -->
+			<text src="../026.xhtml#w233"/>
+			<audio clipBegin="150715ms" clipEnd="151075ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id234">
+			<!-- in -->
+			<text src="../026.xhtml#w234"/>
+			<audio clipBegin="151075ms" clipEnd="151175ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id235">
+			<!-- the -->
+			<text src="../026.xhtml#w235"/>
+			<audio clipBegin="151175ms" clipEnd="151235ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- snow -->
+			<text src="../026.xhtml#w236"/>
+			<audio clipBegin="151235ms" clipEnd="152225ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- She -->
+			<text src="../026.xhtml#w237"/>
+			<audio clipBegin="152225ms" clipEnd="152435ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- follows -->
+			<text src="../026.xhtml#w238"/>
+			<audio clipBegin="152435ms" clipEnd="152825ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- them -->
+			<text src="../026.xhtml#w239"/>
+			<audio clipBegin="152825ms" clipEnd="153035ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- to -->
+			<text src="../026.xhtml#w240"/>
+			<audio clipBegin="153035ms" clipEnd="153175ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id241">
+			<!-- town -->
+			<text src="../026.xhtml#w241"/>
+			<audio clipBegin="153175ms" clipEnd="153765ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id241g">
+			<!--  -->
+			<text src="../026.xhtml#empty1"/>
+			<audio clipBegin="153765ms" clipEnd="154270ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

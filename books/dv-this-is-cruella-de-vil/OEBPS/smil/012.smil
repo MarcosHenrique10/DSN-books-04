@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id89g">
+			<!--  -->
+			<text src="../012.xhtml#empty"/>
+			<audio clipBegin="65095ms" clipEnd="66125ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id89">
+			<!-- Anita -->
+			<text src="../012.xhtml#w89"/>
+			<audio clipBegin="66125ms" clipEnd="66485ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id90">
+			<!-- says -->
+			<text src="../012.xhtml#w90"/>
+			<audio clipBegin="66485ms" clipEnd="66815ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id91">
+			<!-- the -->
+			<text src="../012.xhtml#w91"/>
+			<audio clipBegin="66815ms" clipEnd="66885ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id92">
+			<!-- puppies -->
+			<text src="../012.xhtml#w92"/>
+			<audio clipBegin="66885ms" clipEnd="67285ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id93">
+			<!-- will -->
+			<text src="../012.xhtml#w93"/>
+			<audio clipBegin="67285ms" clipEnd="67445ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id94">
+			<!-- have -->
+			<text src="../012.xhtml#w94"/>
+			<audio clipBegin="67445ms" clipEnd="67545ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id95">
+			<!-- spots -->
+			<text src="../012.xhtml#w95"/>
+			<audio clipBegin="67545ms" clipEnd="68055ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id96">
+			<!-- soon -->
+			<text src="../012.xhtml#w96"/>
+			<audio clipBegin="68055ms" clipEnd="69075ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- That -->
+			<text src="../012.xhtml#w97"/>
+			<audio clipBegin="69075ms" clipEnd="69545ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- makes -->
+			<text src="../012.xhtml#w98"/>
+			<audio clipBegin="69545ms" clipEnd="69885ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- Cruella -->
+			<text src="../012.xhtml#w99"/>
+			<audio clipBegin="69885ms" clipEnd="70415ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- happy -->
+			<text src="../012.xhtml#w100"/>
+			<audio clipBegin="70415ms" clipEnd="71105ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id100g">
+			<!--  -->
+			<text src="../012.xhtml#empty1"/>
+			<audio clipBegin="71105ms" clipEnd="71610ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

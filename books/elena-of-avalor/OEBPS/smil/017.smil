@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id532g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="270699ms" clipEnd="271254ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id532">
+			<!-- Back -->
+			<text src="../017.xhtml#w532"/>
+			<audio clipBegin="271254ms" clipEnd="271494ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id533">
+			<!-- at -->
+			<text src="../017.xhtml#w533"/>
+			<audio clipBegin="271494ms" clipEnd="271604ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id534">
+			<!-- the -->
+			<text src="../017.xhtml#w534"/>
+			<audio clipBegin="271604ms" clipEnd="271684ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id535">
+			<!-- palace -->
+			<text src="../017.xhtml#w535"/>
+			<audio clipBegin="271684ms" clipEnd="272664ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id536">
+			<!-- Sofia -->
+			<text src="../017.xhtml#w536"/>
+			<audio clipBegin="272664ms" clipEnd="273264ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id537">
+			<!-- convinces -->
+			<text src="../017.xhtml#w537"/>
+			<audio clipBegin="273264ms" clipEnd="273884ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id538">
+			<!-- Shuriki -->
+			<text src="../017.xhtml#w538"/>
+			<audio clipBegin="273884ms" clipEnd="274404ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id539">
+			<!-- to -->
+			<text src="../017.xhtml#w539"/>
+			<audio clipBegin="274404ms" clipEnd="274564ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id540">
+			<!-- dance -->
+			<text src="../017.xhtml#w540"/>
+			<audio clipBegin="274564ms" clipEnd="275004ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id541">
+			<!-- with -->
+			<text src="../017.xhtml#w541"/>
+			<audio clipBegin="275004ms" clipEnd="275144ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id542">
+			<!-- her -->
+			<text src="../017.xhtml#w542"/>
+			<audio clipBegin="275144ms" clipEnd="276204ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id543">
+			<!-- Then -->
+			<text src="../017.xhtml#w543"/>
+			<audio clipBegin="276204ms" clipEnd="276494ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id544">
+			<!-- she -->
+			<text src="../017.xhtml#w544"/>
+			<audio clipBegin="276494ms" clipEnd="276704ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id545">
+			<!-- takes -->
+			<text src="../017.xhtml#w545"/>
+			<audio clipBegin="276704ms" clipEnd="277044ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id546">
+			<!-- Shuriki's -->
+			<text src="../017.xhtml#w546"/>
+			<audio clipBegin="277044ms" clipEnd="277644ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id547">
+			<!-- wand -->
+			<text src="../017.xhtml#w547"/>
+			<audio clipBegin="277644ms" clipEnd="278274ms" src="../audio/9781484724156.m4a"/>
+		</par>
+		<par id="id547g">
+			<!--  -->
+			<text src="../017.xhtml#empty1"/>
+			<audio clipBegin="278274ms" clipEnd="279119ms" src="../audio/9781484724156.m4a"/>
+		</par>
+	</body>
+</smil>

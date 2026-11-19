@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id40g">
+			<!--  -->
+			<text src="../007.xhtml#empty"/>
+			<audio clipBegin="34595ms" clipEnd="35105ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- The -->
+			<text src="../007.xhtml#w40"/>
+			<audio clipBegin="35105ms" clipEnd="35195ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- dogs -->
+			<text src="../007.xhtml#w41"/>
+			<audio clipBegin="35195ms" clipEnd="35735ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- are -->
+			<text src="../007.xhtml#w42"/>
+			<audio clipBegin="35735ms" clipEnd="35965ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- Dalmatians -->
+			<text src="../007.xhtml#w43"/>
+			<audio clipBegin="35965ms" clipEnd="37815ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Their -->
+			<text src="../007.xhtml#w44"/>
+			<audio clipBegin="37815ms" clipEnd="38035ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- names -->
+			<text src="../007.xhtml#w45"/>
+			<audio clipBegin="38035ms" clipEnd="38445ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id46">
+			<!-- are -->
+			<text src="../007.xhtml#w46"/>
+			<audio clipBegin="38445ms" clipEnd="38565ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id47">
+			<!-- Pongo -->
+			<text src="../007.xhtml#w47"/>
+			<audio clipBegin="38565ms" clipEnd="39345ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id48">
+			<!-- and -->
+			<text src="../007.xhtml#w48"/>
+			<audio clipBegin="39345ms" clipEnd="39535ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id49">
+			<!-- Perdita -->
+			<text src="../007.xhtml#w49"/>
+			<audio clipBegin="39535ms" clipEnd="40075ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id49g">
+			<!--  -->
+			<text src="../007.xhtml#empty1"/>
+			<audio clipBegin="40075ms" clipEnd="41080ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

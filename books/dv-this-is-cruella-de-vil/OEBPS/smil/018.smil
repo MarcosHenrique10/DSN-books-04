@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id149g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="98650ms" clipEnd="99655ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id149">
+			<!-- The -->
+			<text src="../018.xhtml#w149"/>
+			<audio clipBegin="99655ms" clipEnd="99735ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id150">
+			<!-- dognapping -->
+			<text src="../018.xhtml#w150"/>
+			<audio clipBegin="99735ms" clipEnd="100515ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id151">
+			<!-- is -->
+			<text src="../018.xhtml#w151"/>
+			<audio clipBegin="100515ms" clipEnd="101025ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id152">
+			<!-- big -->
+			<text src="../018.xhtml#w152"/>
+			<audio clipBegin="101025ms" clipEnd="101245ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id153">
+			<!-- news -->
+			<text src="../018.xhtml#w153"/>
+			<audio clipBegin="101245ms" clipEnd="102265ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id154">
+			<!-- Cruella -->
+			<text src="../018.xhtml#w154"/>
+			<audio clipBegin="102265ms" clipEnd="102835ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id155">
+			<!-- reads -->
+			<text src="../018.xhtml#w155"/>
+			<audio clipBegin="102835ms" clipEnd="103205ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id156">
+			<!-- about -->
+			<text src="../018.xhtml#w156"/>
+			<audio clipBegin="103205ms" clipEnd="103515ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id157">
+			<!-- it -->
+			<text src="../018.xhtml#w157"/>
+			<audio clipBegin="103515ms" clipEnd="103615ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id158">
+			<!-- in -->
+			<text src="../018.xhtml#w158"/>
+			<audio clipBegin="103615ms" clipEnd="103705ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id159">
+			<!-- the -->
+			<text src="../018.xhtml#w159"/>
+			<audio clipBegin="103705ms" clipEnd="103765ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id160">
+			<!-- paper -->
+			<text src="../018.xhtml#w160"/>
+			<audio clipBegin="103765ms" clipEnd="104325ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id160g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="104325ms" clipEnd="104585ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

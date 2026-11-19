@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id116g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="78645ms" clipEnd="79695ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id116">
+			<!-- Cruella -->
+			<text src="../014.xhtml#w116"/>
+			<audio clipBegin="79695ms" clipEnd="80815ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id117">
+			<!-- does -->
+			<text src="../014.xhtml#w117"/>
+			<audio clipBegin="80815ms" clipEnd="81245ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id118">
+			<!-- not -->
+			<text src="../014.xhtml#w118"/>
+			<audio clipBegin="81245ms" clipEnd="81645ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id119">
+			<!-- like -->
+			<text src="../014.xhtml#w119"/>
+			<audio clipBegin="81645ms" clipEnd="82185ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id120">
+			<!-- to -->
+			<text src="../014.xhtml#w120"/>
+			<audio clipBegin="82185ms" clipEnd="82395ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id121">
+			<!-- be -->
+			<text src="../014.xhtml#w121"/>
+			<audio clipBegin="82395ms" clipEnd="82565ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id122">
+			<!-- told -->
+			<text src="../014.xhtml#w122"/>
+			<audio clipBegin="82565ms" clipEnd="83215ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id123">
+			<!-- no -->
+			<text src="../014.xhtml#w123"/>
+			<audio clipBegin="83215ms" clipEnd="84035ms" src="../audio/9781368042512.m4a"/>
+		</par>
+		<par id="id123g">
+			<!--  -->
+			<text src="../014.xhtml#empty1"/>
+			<audio clipBegin="84035ms" clipEnd="84550ms" src="../audio/9781368042512.m4a"/>
+		</par>
+	</body>
+</smil>

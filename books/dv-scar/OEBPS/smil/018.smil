@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id178g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="120513ms" clipEnd="121538ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- The -->
+			<text src="../018.xhtml#w178"/>
+			<audio clipBegin="121538ms" clipEnd="121648ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- hyenas -->
+			<text src="../018.xhtml#w179"/>
+			<audio clipBegin="121648ms" clipEnd="122228ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id180">
+			<!-- chase -->
+			<text src="../018.xhtml#w180"/>
+			<audio clipBegin="122228ms" clipEnd="122578ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id181">
+			<!-- animals -->
+			<text src="../018.xhtml#w181"/>
+			<audio clipBegin="122578ms" clipEnd="123078ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id182">
+			<!-- into -->
+			<text src="../018.xhtml#w182"/>
+			<audio clipBegin="123078ms" clipEnd="123238ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id183">
+			<!-- the -->
+			<text src="../018.xhtml#w183"/>
+			<audio clipBegin="123238ms" clipEnd="123318ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id184">
+			<!-- gorge -->
+			<text src="../018.xhtml#w184"/>
+			<audio clipBegin="123318ms" clipEnd="124148ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- The -->
+			<text src="../018.xhtml#w185"/>
+			<audio clipBegin="124148ms" clipEnd="124348ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- animals -->
+			<text src="../018.xhtml#w186"/>
+			<audio clipBegin="124348ms" clipEnd="124918ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- almost -->
+			<text src="../018.xhtml#w187"/>
+			<audio clipBegin="124918ms" clipEnd="125358ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- crush -->
+			<text src="../018.xhtml#w188"/>
+			<audio clipBegin="125358ms" clipEnd="125688ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- Simba -->
+			<text src="../018.xhtml#w189"/>
+			<audio clipBegin="125688ms" clipEnd="126208ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id189g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="126208ms" clipEnd="126713ms" src="../audio/9781368042529.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id213g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="139438ms" clipEnd="139958ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id213">
+			<!-- Mufasa -->
+			<text src="../021.xhtml#w213"/>
+			<audio clipBegin="139958ms" clipEnd="140738ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- gets -->
+			<text src="../021.xhtml#w214"/>
+			<audio clipBegin="140738ms" clipEnd="141098ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- Simba -->
+			<text src="../021.xhtml#w215"/>
+			<audio clipBegin="141098ms" clipEnd="141728ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- to -->
+			<text src="../021.xhtml#w216"/>
+			<audio clipBegin="141728ms" clipEnd="141998ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- safety -->
+			<text src="../021.xhtml#w217"/>
+			<audio clipBegin="141998ms" clipEnd="143188ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- Scar's -->
+			<text src="../021.xhtml#w218"/>
+			<audio clipBegin="143188ms" clipEnd="143838ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- plan -->
+			<text src="../021.xhtml#w219"/>
+			<audio clipBegin="143838ms" clipEnd="144768ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- failed -->
+			<text src="../021.xhtml#w220"/>
+			<audio clipBegin="144768ms" clipEnd="145218ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- again -->
+			<text src="../021.xhtml#w221"/>
+			<audio clipBegin="145218ms" clipEnd="145708ms" src="../audio/9781368042529.m4a"/>
+		</par>
+		<par id="id221g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="145708ms" clipEnd="146743ms" src="../audio/9781368042529.m4a"/>
+		</par>
+	</body>
+</smil>
