@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10916ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Cinderella's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10916ms" clipEnd="11926ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Best -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="11926ms" clipEnd="12636ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- ever -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="12636ms" clipEnd="12976ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- creations -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="12976ms" clipEnd="14596ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- By -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="14596ms" clipEnd="14746ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Cherie -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="14746ms" clipEnd="15216ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Gosling -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="15216ms" clipEnd="16546ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="16546ms" clipEnd="17266ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="17266ms" clipEnd="17506ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- the -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="17506ms" clipEnd="17616ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Disney -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="17616ms" clipEnd="18176ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="18176ms" clipEnd="19016ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Art -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="19016ms" clipEnd="19196ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Team -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="19196ms" clipEnd="19656ms" src="../audio/9781484730034.m4a"/>
+		</par>
+		<par id="id14g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="19656ms" clipEnd="19896ms" src="../audio/9781484730034.m4a"/>
+		</par>
+	</body>
+</smil>

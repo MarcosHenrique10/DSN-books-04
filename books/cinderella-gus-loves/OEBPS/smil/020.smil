@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id132g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="110620ms" clipEnd="110839ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id132">
+			<!-- Is -->
+			<text src="../020.xhtml#w132"/>
+			<audio clipBegin="110839ms" clipEnd="111019ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id133">
+			<!-- that -->
+			<text src="../020.xhtml#w133"/>
+			<audio clipBegin="111019ms" clipEnd="111249ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- what -->
+			<text src="../020.xhtml#w134"/>
+			<audio clipBegin="111249ms" clipEnd="111509ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- you -->
+			<text src="../020.xhtml#w135"/>
+			<audio clipBegin="111509ms" clipEnd="111659ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- think -->
+			<text src="../020.xhtml#w136"/>
+			<audio clipBegin="111659ms" clipEnd="111969ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- Gus -->
+			<text src="../020.xhtml#w137"/>
+			<audio clipBegin="111969ms" clipEnd="112929ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id138">
+			<!-- asked -->
+			<text src="../020.xhtml#w138"/>
+			<audio clipBegin="112929ms" clipEnd="113209ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id139">
+			<!-- Cinderella -->
+			<text src="../020.xhtml#w139"/>
+			<audio clipBegin="113209ms" clipEnd="113979ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id139g">
+			<!--  -->
+			<text src="../020.xhtml#empty1"/>
+			<audio clipBegin="113979ms" clipEnd="114454ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>

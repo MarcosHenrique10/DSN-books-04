@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10269ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Gus -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10269ms" clipEnd="10769ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Loves -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="10769ms" clipEnd="11609ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Cinderella -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="11609ms" clipEnd="13209ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Written -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13209ms" clipEnd="13629ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="13629ms" clipEnd="13839ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Cynthea -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="13839ms" clipEnd="14309ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Liu -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="14309ms" clipEnd="15739ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- AIllustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15739ms" clipEnd="16499ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="16499ms" clipEnd="16669ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Genevieve -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="16669ms" clipEnd="17369ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Godbout -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="17369ms" clipEnd="17979ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id11g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="17979ms" clipEnd="18879ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>

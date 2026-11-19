@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id534g">
+			<!--  -->
+			<text src="../029.xhtml#empty"/>
+			<audio clipBegin="273405ms" clipEnd="273955ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id534">
+			<!-- Mamá -->
+			<text src="../029.xhtml#w534"/>
+			<audio clipBegin="273955ms" clipEnd="274295ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id535">
+			<!-- Imelda -->
+			<text src="../029.xhtml#w535"/>
+			<audio clipBegin="274295ms" clipEnd="274825ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id536">
+			<!-- saves -->
+			<text src="../029.xhtml#w536"/>
+			<audio clipBegin="274825ms" clipEnd="275395ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id537">
+			<!-- Héctor -->
+			<text src="../029.xhtml#w537"/>
+			<audio clipBegin="275395ms" clipEnd="275745ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id538">
+			<!-- and -->
+			<text src="../029.xhtml#w538"/>
+			<audio clipBegin="275745ms" clipEnd="275915ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id539">
+			<!-- Miguel -->
+			<text src="../029.xhtml#w539"/>
+			<audio clipBegin="275915ms" clipEnd="276935ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id540">
+			<!-- Everyone -->
+			<text src="../029.xhtml#w540"/>
+			<audio clipBegin="276935ms" clipEnd="277455ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id541">
+			<!-- learns -->
+			<text src="../029.xhtml#w541"/>
+			<audio clipBegin="277455ms" clipEnd="277945ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id542">
+			<!-- the -->
+			<text src="../029.xhtml#w542"/>
+			<audio clipBegin="277945ms" clipEnd="278035ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id543">
+			<!-- truth -->
+			<text src="../029.xhtml#w543"/>
+			<audio clipBegin="278035ms" clipEnd="278785ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id544">
+			<!-- about -->
+			<text src="../029.xhtml#w544"/>
+			<audio clipBegin="278785ms" clipEnd="279115ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id545">
+			<!-- Ernesto -->
+			<text src="../029.xhtml#w545"/>
+			<audio clipBegin="279115ms" clipEnd="279775ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id545g">
+			<!--  -->
+			<text src="../029.xhtml#empty1"/>
+			<audio clipBegin="279775ms" clipEnd="280870ms" src="../audio/9781368001564.m4a"/>
+		</par>
+	</body>
+</smil>

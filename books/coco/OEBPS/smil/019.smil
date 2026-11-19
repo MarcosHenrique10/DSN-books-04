@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id475g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="227866ms" clipEnd="228491ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id475">
+			<!-- Ernesto -->
+			<text src="../019.xhtml#w475"/>
+			<audio clipBegin="228491ms" clipEnd="229101ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id476">
+			<!-- was -->
+			<text src="../019.xhtml#w476"/>
+			<audio clipBegin="229101ms" clipEnd="229421ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id477">
+			<!-- overjoyed -->
+			<text src="../019.xhtml#w477"/>
+			<audio clipBegin="229421ms" clipEnd="231041ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id478">
+			<!-- I -->
+			<text src="../019.xhtml#w478"/>
+			<audio clipBegin="231041ms" clipEnd="231241ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id479">
+			<!-- have -->
+			<text src="../019.xhtml#w479"/>
+			<audio clipBegin="231241ms" clipEnd="231471ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id480">
+			<!-- a -->
+			<text src="../019.xhtml#w480"/>
+			<audio clipBegin="231471ms" clipEnd="231561ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id481">
+			<!-- great -->
+			<text src="../019.xhtml#w481"/>
+			<audio clipBegin="231561ms" clipEnd="232181ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id482">
+			<!-- great -->
+			<text src="../019.xhtml#w482"/>
+			<audio clipBegin="232181ms" clipEnd="232511ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id483">
+			<!-- grandson -->
+			<text src="../019.xhtml#w483"/>
+			<audio clipBegin="232511ms" clipEnd="233431ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id483g">
+			<!--  -->
+			<text src="../019.xhtml#empty1"/>
+			<audio clipBegin="233431ms" clipEnd="234501ms" src="../audio/9781368001533.m4a"/>
+		</par>
+	</body>
+</smil>

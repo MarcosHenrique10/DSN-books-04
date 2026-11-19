@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id40g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="41429ms" clipEnd="42339ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- Breakfast -->
+			<text src="../008.xhtml#w40"/>
+			<audio clipBegin="42339ms" clipEnd="43009ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- is -->
+			<text src="../008.xhtml#w41"/>
+			<audio clipBegin="43009ms" clipEnd="43149ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- served -->
+			<text src="../008.xhtml#w42"/>
+			<audio clipBegin="43149ms" clipEnd="43729ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- Gus -->
+			<text src="../008.xhtml#w43"/>
+			<audio clipBegin="43729ms" clipEnd="44959ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Cinderella -->
+			<text src="../008.xhtml#w44"/>
+			<audio clipBegin="44959ms" clipEnd="45649ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- called -->
+			<text src="../008.xhtml#w45"/>
+			<audio clipBegin="45649ms" clipEnd="46189ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id45g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="46189ms" clipEnd="46799ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id556g">
+			<!--  -->
+			<text src="../031.xhtml#empty"/>
+			<audio clipBegin="286035ms" clipEnd="286615ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id556">
+			<!-- Miguel -->
+			<text src="../031.xhtml#w556"/>
+			<audio clipBegin="286615ms" clipEnd="287025ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id557">
+			<!-- sings -->
+			<text src="../031.xhtml#w557"/>
+			<audio clipBegin="287025ms" clipEnd="287315ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id558">
+			<!-- Héctor's -->
+			<text src="../031.xhtml#w558"/>
+			<audio clipBegin="287315ms" clipEnd="287785ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id559">
+			<!-- song -->
+			<text src="../031.xhtml#w559"/>
+			<audio clipBegin="287785ms" clipEnd="288165ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id560">
+			<!-- to -->
+			<text src="../031.xhtml#w560"/>
+			<audio clipBegin="288165ms" clipEnd="288355ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id561">
+			<!-- Mamá -->
+			<text src="../031.xhtml#w561"/>
+			<audio clipBegin="288355ms" clipEnd="288735ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id562">
+			<!-- Coco -->
+			<text src="../031.xhtml#w562"/>
+			<audio clipBegin="288735ms" clipEnd="289955ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id563">
+			<!-- The -->
+			<text src="../031.xhtml#w563"/>
+			<audio clipBegin="289955ms" clipEnd="290065ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id564">
+			<!-- whole -->
+			<text src="../031.xhtml#w564"/>
+			<audio clipBegin="290065ms" clipEnd="290465ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id565">
+			<!-- family -->
+			<text src="../031.xhtml#w565"/>
+			<audio clipBegin="290465ms" clipEnd="291065ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id566">
+			<!-- watches -->
+			<text src="../031.xhtml#w566"/>
+			<audio clipBegin="291065ms" clipEnd="292435ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id567">
+			<!-- She -->
+			<text src="../031.xhtml#w567"/>
+			<audio clipBegin="292435ms" clipEnd="292715ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id568">
+			<!-- remembers -->
+			<text src="../031.xhtml#w568"/>
+			<audio clipBegin="292715ms" clipEnd="293425ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id569">
+			<!-- Papá -->
+			<text src="../031.xhtml#w569"/>
+			<audio clipBegin="293425ms" clipEnd="293815ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id570">
+			<!-- Héctor -->
+			<text src="../031.xhtml#w570"/>
+			<audio clipBegin="293815ms" clipEnd="295025ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id571">
+			<!-- Music -->
+			<text src="../031.xhtml#w571"/>
+			<audio clipBegin="295025ms" clipEnd="295775ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id572">
+			<!-- fills -->
+			<text src="../031.xhtml#w572"/>
+			<audio clipBegin="295775ms" clipEnd="296194ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id573">
+			<!-- their -->
+			<text src="../031.xhtml#w573"/>
+			<audio clipBegin="296194ms" clipEnd="296430ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id574">
+			<!-- home -->
+			<text src="../031.xhtml#w574"/>
+			<audio clipBegin="296430ms" clipEnd="296887ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id575">
+			<!-- once -->
+			<text src="../031.xhtml#w575"/>
+			<audio clipBegin="296887ms" clipEnd="297195ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id576">
+			<!-- again -->
+			<text src="../031.xhtml#w576"/>
+			<audio clipBegin="297195ms" clipEnd="297763ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id576g">
+			<!--  -->
+			<text src="../031.xhtml#empty1"/>
+			<audio clipBegin="297763ms" clipEnd="299227ms" src="../audio/9781368001564.m4a"/>
+		</par>
+	</body>
+</smil>

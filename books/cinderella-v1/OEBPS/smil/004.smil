@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id2g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="11574ms" clipEnd="12419ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Once -->
+			<text src="../004.xhtml#w2"/>
+			<audio clipBegin="12419ms" clipEnd="13159ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- there -->
+			<text src="../004.xhtml#w3"/>
+			<audio clipBegin="13159ms" clipEnd="13289ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- was -->
+			<text src="../004.xhtml#w4"/>
+			<audio clipBegin="13289ms" clipEnd="13429ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- a -->
+			<text src="../004.xhtml#w5"/>
+			<audio clipBegin="13429ms" clipEnd="13559ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- kind -->
+			<text src="../004.xhtml#w6"/>
+			<audio clipBegin="13559ms" clipEnd="14029ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- and -->
+			<text src="../004.xhtml#w7"/>
+			<audio clipBegin="14029ms" clipEnd="14219ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- beautiful -->
+			<text src="../004.xhtml#w8"/>
+			<audio clipBegin="14219ms" clipEnd="14769ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- girl -->
+			<text src="../004.xhtml#w9"/>
+			<audio clipBegin="14769ms" clipEnd="15109ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- named -->
+			<text src="../004.xhtml#w10"/>
+			<audio clipBegin="15109ms" clipEnd="15439ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Cinderella -->
+			<text src="../004.xhtml#w11"/>
+			<audio clipBegin="15439ms" clipEnd="16729ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- who -->
+			<text src="../004.xhtml#w12"/>
+			<audio clipBegin="16729ms" clipEnd="16819ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- lived -->
+			<text src="../004.xhtml#w13"/>
+			<audio clipBegin="16819ms" clipEnd="17179ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- with -->
+			<text src="../004.xhtml#w14"/>
+			<audio clipBegin="17179ms" clipEnd="17279ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- her -->
+			<text src="../004.xhtml#w15"/>
+			<audio clipBegin="17279ms" clipEnd="17409ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- cruel -->
+			<text src="../004.xhtml#w16"/>
+			<audio clipBegin="17409ms" clipEnd="17969ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- stepmother -->
+			<text src="../004.xhtml#w17"/>
+			<audio clipBegin="17969ms" clipEnd="19139ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- and -->
+			<text src="../004.xhtml#w18"/>
+			<audio clipBegin="19139ms" clipEnd="19319ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- two -->
+			<text src="../004.xhtml#w19"/>
+			<audio clipBegin="19319ms" clipEnd="19569ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- selfish -->
+			<text src="../004.xhtml#w20"/>
+			<audio clipBegin="19569ms" clipEnd="20249ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- stepsisters -->
+			<text src="../004.xhtml#w21"/>
+			<audio clipBegin="20249ms" clipEnd="21899ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- Anastasia -->
+			<text src="../004.xhtml#w22"/>
+			<audio clipBegin="21899ms" clipEnd="23219ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- and -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="23219ms" clipEnd="23589ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- Drizella -->
+			<text src="../004.xhtml#w24"/>
+			<audio clipBegin="23589ms" clipEnd="24309ms" src="../audio/9781484798270.m4a"/>
+		</par>
+		<par id="id24g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="24309ms" clipEnd="24829ms" src="../audio/9781484798270.m4a"/>
+		</par>
+	</body>
+</smil>

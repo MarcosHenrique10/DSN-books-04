@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id574g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="278220ms" clipEnd="278969ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id574">
+			<!-- remenber -->
+			<text src="../023.xhtml#w574"/>
+			<audio clipBegin="278969ms" clipEnd="279529ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id575">
+			<!-- me -->
+			<text src="../023.xhtml#w575"/>
+			<audio clipBegin="279529ms" clipEnd="280793ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id576">
+			<!-- Miguel -->
+			<text src="../023.xhtml#w576"/>
+			<audio clipBegin="280793ms" clipEnd="281143ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id577">
+			<!-- thought -->
+			<text src="../023.xhtml#w577"/>
+			<audio clipBegin="281143ms" clipEnd="281413ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id578">
+			<!-- of -->
+			<text src="../023.xhtml#w578"/>
+			<audio clipBegin="281413ms" clipEnd="281493ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id579">
+			<!-- Mamá -->
+			<text src="../023.xhtml#w579"/>
+			<audio clipBegin="281493ms" clipEnd="281903ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id580">
+			<!-- Imelda's -->
+			<text src="../023.xhtml#w580"/>
+			<audio clipBegin="281903ms" clipEnd="282433ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id581">
+			<!-- photo -->
+			<text src="../023.xhtml#w581"/>
+			<audio clipBegin="282433ms" clipEnd="283221ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id582">
+			<!-- and -->
+			<text src="../023.xhtml#w582"/>
+			<audio clipBegin="283221ms" clipEnd="283431ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id583">
+			<!-- the -->
+			<text src="../023.xhtml#w583"/>
+			<audio clipBegin="283431ms" clipEnd="283631ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id584">
+			<!-- unidentified -->
+			<text src="../023.xhtml#w584"/>
+			<audio clipBegin="283631ms" clipEnd="284491ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id585">
+			<!-- man -->
+			<text src="../023.xhtml#w585"/>
+			<audio clipBegin="284491ms" clipEnd="286371ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id586">
+			<!-- It's -->
+			<text src="../023.xhtml#w586"/>
+			<audio clipBegin="286371ms" clipEnd="287571ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id587">
+			<!-- you -->
+			<text src="../023.xhtml#w587"/>
+			<audio clipBegin="287571ms" clipEnd="289201ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id588">
+			<!-- Héctor -->
+			<text src="../023.xhtml#w588"/>
+			<audio clipBegin="289201ms" clipEnd="290311ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id589">
+			<!-- YOU -->
+			<text src="../023.xhtml#w589"/>
+			<audio clipBegin="290311ms" clipEnd="290871ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id590">
+			<!-- are -->
+			<text src="../023.xhtml#w590"/>
+			<audio clipBegin="290871ms" clipEnd="290981ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id591">
+			<!-- my -->
+			<text src="../023.xhtml#w591"/>
+			<audio clipBegin="290981ms" clipEnd="291181ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id592">
+			<!-- great -->
+			<text src="../023.xhtml#w592"/>
+			<audio clipBegin="291181ms" clipEnd="291741ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id593">
+			<!-- great -->
+			<text src="../023.xhtml#w593"/>
+			<audio clipBegin="291741ms" clipEnd="292071ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id594">
+			<!-- grandpa -->
+			<text src="../023.xhtml#w594"/>
+			<audio clipBegin="292071ms" clipEnd="292801ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id594g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="292801ms" clipEnd="293881ms" src="../audio/9781368001533.m4a"/>
+		</par>
+	</body>
+</smil>

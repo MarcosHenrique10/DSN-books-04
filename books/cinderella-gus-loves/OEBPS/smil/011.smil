@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id58g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="58234ms" clipEnd="58819ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id58">
+			<!-- Lucifer -->
+			<text src="../011.xhtml#w58"/>
+			<audio clipBegin="58819ms" clipEnd="60339ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id59">
+			<!-- Cinderella -->
+			<text src="../011.xhtml#w59"/>
+			<audio clipBegin="60339ms" clipEnd="61009ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id60">
+			<!-- said -->
+			<text src="../011.xhtml#w60"/>
+			<audio clipBegin="61009ms" clipEnd="62019ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id61">
+			<!-- will -->
+			<text src="../011.xhtml#w61"/>
+			<audio clipBegin="62019ms" clipEnd="62579ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- you -->
+			<text src="../011.xhtml#w62"/>
+			<audio clipBegin="62579ms" clipEnd="62719ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- ever -->
+			<text src="../011.xhtml#w63"/>
+			<audio clipBegin="62719ms" clipEnd="63069ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- learn -->
+			<text src="../011.xhtml#w64"/>
+			<audio clipBegin="63069ms" clipEnd="63729ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id64g">
+			<!--  -->
+			<text src="../011.xhtml#empty1"/>
+			<audio clipBegin="63729ms" clipEnd="64674ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>

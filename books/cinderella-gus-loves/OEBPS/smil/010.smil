@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id53g">
+			<!--  -->
+			<text src="../010.xhtml#empty"/>
+			<audio clipBegin="53329ms" clipEnd="54259ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- even -->
+			<text src="../010.xhtml#w53"/>
+			<audio clipBegin="54259ms" clipEnd="54759ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- to -->
+			<text src="../010.xhtml#w54"/>
+			<audio clipBegin="54759ms" clipEnd="55209ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- meanie -->
+			<text src="../010.xhtml#w55"/>
+			<audio clipBegin="55209ms" clipEnd="55799ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id56">
+			<!-- sneaky -->
+			<text src="../010.xhtml#w56"/>
+			<audio clipBegin="55799ms" clipEnd="56489ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id57">
+			<!-- Lucifee -->
+			<text src="../010.xhtml#w57"/>
+			<audio clipBegin="56489ms" clipEnd="57649ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id57g">
+			<!--  -->
+			<text src="../010.xhtml#empty1"/>
+			<audio clipBegin="57649ms" clipEnd="58234ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>

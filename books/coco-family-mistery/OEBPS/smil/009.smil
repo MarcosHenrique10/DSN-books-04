@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id101g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="60975ms" clipEnd="61735ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id101">
+			<!-- He -->
+			<text src="../009.xhtml#w101"/>
+			<audio clipBegin="61735ms" clipEnd="61875ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id102">
+			<!-- loves -->
+			<text src="../009.xhtml#w102"/>
+			<audio clipBegin="61875ms" clipEnd="62485ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id103">
+			<!-- music -->
+			<text src="../009.xhtml#w103"/>
+			<audio clipBegin="62485ms" clipEnd="63605ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id104">
+			<!-- He -->
+			<text src="../009.xhtml#w104"/>
+			<audio clipBegin="63605ms" clipEnd="63745ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id105">
+			<!-- sings -->
+			<text src="../009.xhtml#w105"/>
+			<audio clipBegin="63745ms" clipEnd="64335ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id106">
+			<!-- and -->
+			<text src="../009.xhtml#w106"/>
+			<audio clipBegin="64335ms" clipEnd="64505ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id107">
+			<!-- plays -->
+			<text src="../009.xhtml#w107"/>
+			<audio clipBegin="64505ms" clipEnd="64745ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id108">
+			<!-- guitar -->
+			<text src="../009.xhtml#w108"/>
+			<audio clipBegin="64745ms" clipEnd="65145ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id109">
+			<!-- for -->
+			<text src="../009.xhtml#w109"/>
+			<audio clipBegin="65145ms" clipEnd="65285ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id110">
+			<!-- his -->
+			<text src="../009.xhtml#w110"/>
+			<audio clipBegin="65285ms" clipEnd="65485ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id111">
+			<!-- dog -->
+			<text src="../009.xhtml#w111"/>
+			<audio clipBegin="65485ms" clipEnd="66075ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id112">
+			<!-- Dante -->
+			<text src="../009.xhtml#w112"/>
+			<audio clipBegin="66075ms" clipEnd="66495ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id112g">
+			<!--  -->
+			<text src="../009.xhtml#empty1"/>
+			<audio clipBegin="66495ms" clipEnd="67610ms" src="../audio/9781368001564.m4a"/>
+		</par>
+	</body>
+</smil>

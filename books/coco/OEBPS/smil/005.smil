@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id13g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="18613ms" clipEnd="18713ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- In -->
+			<text src="../005.xhtml#w13"/>
+			<audio clipBegin="18713ms" clipEnd="18960ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- in -->
+			<text src="../005.xhtml#w14"/>
+			<audio clipBegin="18960ms" clipEnd="19100ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- the -->
+			<text src="../005.xhtml#w15"/>
+			<audio clipBegin="19100ms" clipEnd="19190ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- small -->
+			<text src="../005.xhtml#w16"/>
+			<audio clipBegin="19190ms" clipEnd="19670ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- town -->
+			<text src="../005.xhtml#w17"/>
+			<audio clipBegin="19670ms" clipEnd="20210ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- of -->
+			<text src="../005.xhtml#w18"/>
+			<audio clipBegin="20210ms" clipEnd="20280ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Santa -->
+			<text src="../005.xhtml#w19"/>
+			<audio clipBegin="20280ms" clipEnd="20860ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- Cecilia -->
+			<text src="../005.xhtml#w20"/>
+			<audio clipBegin="20860ms" clipEnd="22081ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- there -->
+			<text src="../005.xhtml#w21"/>
+			<audio clipBegin="22081ms" clipEnd="22221ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- lived -->
+			<text src="../005.xhtml#w22"/>
+			<audio clipBegin="22221ms" clipEnd="22561ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- a -->
+			<text src="../005.xhtml#w23"/>
+			<audio clipBegin="22561ms" clipEnd="22601ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- boy -->
+			<text src="../005.xhtml#w24"/>
+			<audio clipBegin="22601ms" clipEnd="22751ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- named -->
+			<text src="../005.xhtml#w25"/>
+			<audio clipBegin="22751ms" clipEnd="23241ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- Miguel -->
+			<text src="../005.xhtml#w26"/>
+			<audio clipBegin="23241ms" clipEnd="23801ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- Rivera -->
+			<text src="../005.xhtml#w27"/>
+			<audio clipBegin="23801ms" clipEnd="25441ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- His -->
+			<text src="../005.xhtml#w28"/>
+			<audio clipBegin="25441ms" clipEnd="25661ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- house -->
+			<text src="../005.xhtml#w29"/>
+			<audio clipBegin="25661ms" clipEnd="26181ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- was -->
+			<text src="../005.xhtml#w30"/>
+			<audio clipBegin="26181ms" clipEnd="26471ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- full -->
+			<text src="../005.xhtml#w31"/>
+			<audio clipBegin="26471ms" clipEnd="26911ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- of -->
+			<text src="../005.xhtml#w32"/>
+			<audio clipBegin="26911ms" clipEnd="26991ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- family -->
+			<text src="../005.xhtml#w33"/>
+			<audio clipBegin="26991ms" clipEnd="28091ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- including -->
+			<text src="../005.xhtml#w34"/>
+			<audio clipBegin="28091ms" clipEnd="28631ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- his -->
+			<text src="../005.xhtml#w35"/>
+			<audio clipBegin="28631ms" clipEnd="28841ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- great -->
+			<text src="../005.xhtml#w36"/>
+			<audio clipBegin="28841ms" clipEnd="29211ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- grandmother -->
+			<text src="../005.xhtml#w37"/>
+			<audio clipBegin="29211ms" clipEnd="30191ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- Mamá -->
+			<text src="../005.xhtml#w38"/>
+			<audio clipBegin="30191ms" clipEnd="30741ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- Coco -->
+			<text src="../005.xhtml#w39"/>
+			<audio clipBegin="30741ms" clipEnd="31211ms" src="../audio/9781368001533.m4a"/>
+		</par>
+		<par id="id39g">
+			<!--  -->
+			<text src="../005.xhtml#empty1"/>
+			<audio clipBegin="31211ms" clipEnd="32331ms" src="../audio/9781368001533.m4a"/>
+		</par>
+	</body>
+</smil>

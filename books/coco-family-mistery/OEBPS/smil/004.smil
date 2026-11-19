@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id15g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="15598ms" clipEnd="18845ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Miguel -->
+			<text src="../004.xhtml#w15"/>
+			<audio clipBegin="18845ms" clipEnd="19225ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- Rivera -->
+			<text src="../004.xhtml#w16"/>
+			<audio clipBegin="19225ms" clipEnd="19745ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- lives -->
+			<text src="../004.xhtml#w17"/>
+			<audio clipBegin="19745ms" clipEnd="20065ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- in -->
+			<text src="../004.xhtml#w18"/>
+			<audio clipBegin="20065ms" clipEnd="20165ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Mexico -->
+			<text src="../004.xhtml#w19"/>
+			<audio clipBegin="20165ms" clipEnd="20675ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- with -->
+			<text src="../004.xhtml#w20"/>
+			<audio clipBegin="20675ms" clipEnd="20845ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- his -->
+			<text src="../004.xhtml#w21"/>
+			<audio clipBegin="20845ms" clipEnd="21215ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- big -->
+			<text src="../004.xhtml#w22"/>
+			<audio clipBegin="21215ms" clipEnd="21475ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- family -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="21475ms" clipEnd="22075ms" src="../audio/9781368001564.m4a"/>
+		</par>
+		<par id="id23g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="22075ms" clipEnd="22775ms" src="../audio/9781368001564.m4a"/>
+		</par>
+	</body>
+</smil>

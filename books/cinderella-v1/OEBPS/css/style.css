@@ -1,0 +1,379 @@
+@font-face
+{
+	font-family: "Arial";
+	src: url(../fonts/Arial.ttf);
+}
+
+
+@font-face
+{
+	font-family: "AvenirNextLTPro_Medium";
+	src: url(../fonts/AvenirNextLTPro_Medium.otf);
+}
+@font-face
+{
+	font-family: "CenturyOldStyleStd_Regular";
+	src: url(../fonts/CenturyOldStyleStd_Regular.otf);
+}
+@font-face
+{
+	font-family: "SimonciniGaramondStd";
+	src: url(../fonts/SimonciniGaramondStd.otf);
+}
+@font-face
+{
+	font-family: "SimonciniGaramondStd_Italic";
+	src: url(../fonts/SimonciniGaramondStd_Italic.otf);
+}
+
+
+img{z-index:-1;}
+
+body {
+	width: 866px;
+	height: 866px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 866px;
+	height: 866px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+p.nonindent{
+	font-size: 24px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family: "SimonciniGaramondStd";
+}
+
+p.indent{
+	font-size: 24px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 28px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.crt{
+	font-size: 12px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 16px;
+	word-spacing:0px;
+	font-family: "CenturyOldStyleStd_Regular";
+} 
+p.logo{
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+	font-family: "CenturyOldStyleStd_Regular";
+} 
+p.logo1{
+	font-size: 12px;
+	line-height: 12px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family: "AvenirNextLTPro_Medium";
+} 
+p.heading{
+	font-size: 48px;
+	line-height: 36px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	word-spacing:0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.heading_txt{
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family: "SimonciniGaramondStd";
+}
+
+span.strong1
+{
+	font-size:65px;
+	margin-left:-2px;
+	vertical-align:-2px;
+	font-family: "CenturyOldStyleStd_Regular";
+}
+span.italic
+{
+	font-family: "SimonciniGaramondStd_Italic";
+}
+span.lt01
+{
+	word-spacing:1px;
+}
+span.lt02
+{
+	margin-left:18px;
+}
+span.lt03
+{
+	margin-left:79px;
+	word-spacing:1px;
+}
+span.lt04
+{
+	margin-left:113px;
+}
+span.lt05
+{
+	margin-left:134px;
+}
+
+
+div.page2_item1{
+	position: absolute;
+	top: 639px;
+	left: 136px;
+	right: 0px;
+width: 591px;height: 177px;}
+div.page3_item1{
+	position: absolute;
+	top: 768px;
+	left: 356px;
+	right: 0px;
+width: 155px;height: 32px;}
+div.page4_item1{
+	position: absolute;
+	top: 55px;
+	left: 116px;
+	right: 0px;
+width: 646px;height: 163px;}
+div.page5_item1{
+	position: absolute;
+	top: 68px;
+	left: 134px;
+	right: 0px;
+width: 600px;height: 209px;}
+div.page6_item1{
+	position: absolute;
+	top: 712px;
+	left: 90px;
+	right: 0px;
+width: 661px;height: 109px;}
+div.page7_item1{
+	position: absolute;
+	top: 60px;
+	left: 112px;
+	right: 0px;
+width: 692px;height: 220px;}
+div.page8_item1{
+	position: absolute;
+	top: 573px;
+	left: 107px;
+	right: 0px;
+width: 698px;height: 272px;}
+div.page9_item1{
+	position: absolute;
+	top: 55px;
+	left: 102px;
+	right: 0px;
+width: 659px;height: 290px;}
+div.page11_item1{
+	position: absolute;
+	top: 48px;
+	left: 135px;
+	right: 0px;
+width: 664px;height: 258px;}
+div.page12_item1{
+	position: absolute;
+	top: 75px;
+	left: 147px;
+	right: 0px;
+width: 594px;height: 160px;}
+div.page13_item1{
+	position: absolute;
+	top: 638px;
+	left: 109px;
+	right: 0px;
+width: 675px;height: 213px;}
+div.page14_item1{
+	position: absolute;
+	top: 44px;
+	left: 114px;
+	right: 0px;
+width: 678px;height: 247px;}
+div.page15_item1{
+	position: absolute;
+	top: 44px;
+	left: 313px;
+	right: 0px;
+width: 526px;height: 278px;}
+div.page17_item1{
+	position: absolute;
+	top: 171px;
+	left: 132px;
+	right: 0px;
+width: 611px;height: 169px;}
+div.page18_item1{
+	position: absolute;
+	top: 74px;
+	left: 182px;
+	right: 0px;
+width: 612px;height: 213px;}
+div.page19_item1{
+	position: absolute;
+	top: 74px;
+	left: 113px;
+	right: 0px;
+width: 654px;height: 178px;}
+div.page20_item1{
+	position: absolute;
+	top: 50px;
+	left: 113px;
+	right: 0px;
+width: 652px;height: 234px;}
+div.page21_item1{
+	position: absolute;
+	top: 50px;
+	left: 114px;
+	right: 0px;
+width: 680px;height: 250px;}
+div.page22_item1{
+	position: absolute;
+	top: 637px;
+	left: 81px;
+	right: 0px;
+width: 735px;height: 168px;}
+div.page23_item1{
+	position: absolute;
+	top: 72px;
+	left: 104px;
+	right: 0px;
+width: 692px;height: 150px;}
+div.page24_item1{
+	position: absolute;
+	top: 39px;
+	left: 67px;
+	right: 0px;
+width: 703px;height: 365px;}
+div.page27_item1{
+	position: absolute;
+	top: 75px;
+	left: 120px;
+	right: 0px;
+width: 714px;height: 201px;}
+div.page28_item1{
+	position: absolute;
+	top: 70px;
+	left: 104px;
+	right: 0px;
+width: 689px;height: 146px;}
+div.page29_item1{
+	position: absolute;
+	top: 638px;
+	left: 83px;
+	right: 0px;
+width: 698px;height: 195px;}
+div.page31_item1{
+	position: absolute;
+	top: 60px;
+	left: 107px;
+	right: 0px;
+width: 639px;height: 321px;}
+div.page33_item1{
+	position: absolute;
+	top: 144px;
+	left: 489px;
+	right: 0px;
+width: 349px;height: 555px;}
+div.page34_item1{
+	position: absolute;
+	top: 639px;
+	left: 91px;
+	right: 0px;
+width: 678px;height: 188px;}
+div.page36_item1{
+	position: absolute;
+	top: 86px;
+	left: 128px;
+	right: 0px;
+width: 616px;height: 162px;}
+div.page36_item2{
+	position: absolute;
+	top: 826px;
+	left: 27px;
+	right: 0px;
+width: 198px;height: 28px;}
+
+.blue
+{
+color:#00ADEE;
+}
+.blue1
+{
+color:#C7EBFC;
+}
+.white
+{
+color:#FFFFFF;
+}
+
+ .media-overlay-active { color:#f00 !important; padding-top:15px;padding-bottom:15px;}
+
+.media-overlay-active span.strong1
+{ color:#f00 !important;}
+
+
+aap{color:red;}
+
+span.arial
+{
+font-family: "Arial";
+}

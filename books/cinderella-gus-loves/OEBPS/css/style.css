@@ -1,0 +1,369 @@
+img{z-index:-1;}
+@font-face{
+	font-family: "MinikRegular";
+	src: url(../fonts/MinikRegular.otf);
+}
+@font-face{
+	font-family: "AGaramondPro-Regular";
+	src: url(../fonts/AGaramondPro-Regular.otf);
+}
+@font-face{
+	font-family: "Arial";
+	src: url(../fonts/Arial.ttf);
+}
+@font-face{
+	font-family: "MandevillaBold";
+	src: url(../fonts/MandevillaBold.otf);
+}
+
+body {
+	width: 741px;
+	height: 1011px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 741px;
+	height: 1011px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 746px;
+	left: 98px;
+	right: 0px;
+width: 547px;height: 139px;}
+div.page3_item1{
+	position: absolute;
+	top: 843px;
+	left: 88px;
+	right: 0px;
+width: 570px;height: 62px;}
+div.page3_item2{
+	position: absolute;
+	top: 959px;
+	left: 281px;
+	right: 0px;
+width: 193px;height: 15px;}
+div.page4_item1{
+	position: absolute;
+	top: 56px;
+	left: 179px;
+	right: 0px;
+width: 420px;height: 131px;}
+div.page5_item1{
+	position: absolute;
+	top: 484px;
+	left: 73px;
+	right: 0px;
+width: 265px;height: 216px;}
+div.page6_item1{
+	position: absolute;
+	top: 41px;
+	left: 139px;
+	right: 0px;
+width: 358px;height: 209px;}
+div.page7_item1{
+	position: absolute;
+	top: 217px;
+	left: 54px;
+	right: 0px;
+width: 251px;height: 202px;}
+div.page8_item1{
+	position: absolute;
+	top: 189px;
+	left: 382px;
+	right: 0px;
+width: 318px;height: 161px;}
+div.page9_item1{
+	position: absolute;
+	top: 313px;
+	left: 310px;
+	right: 0px;
+width: 255px;height: 196px;}
+div.page10_item1{
+	position: absolute;
+	top: 440px;
+	left: 275px;
+	right: 0px;
+width: 233px;height: 142px;}
+div.page11_item1{
+	position: absolute;
+	top: 43px;
+	left: 40px;
+	right: 0px;
+width: 416px;height: 158px;}
+div.page12_item1{
+	position: absolute;
+	top: 53px;
+	left: 80px;
+	right: 0px;
+width: 562px;height: 159px;}
+div.page12_item2{
+	position: absolute;
+	top: 860px;
+	left: 87px;
+	right: 0px;
+width: 445px;height: 104px;}
+div.page13_item1{
+	position: absolute;
+	top: 70px;
+	left: 146px;
+	right: 0px;
+width: 281px;height: 133px;}
+div.page14_item1{
+	position: absolute;
+	top: 25px;
+	left: 113px;
+	right: 0px;
+width: 515px;height: 157px;}
+div.page15_item1{
+	position: absolute;
+	top: 321px;
+	left: 53px;
+	right: 0px;
+width: 253px;height: 204px;}
+div.page16_item1{
+	position: absolute;
+	top: 691px;
+	left: 250px;
+	right: 0px;
+width: 308px;height: 81px;}
+div.page17_item1{
+	position: absolute;
+	top: 21px;
+	left: 91px;
+	right: 0px;
+width: 595px;height: 155px;}
+div.page18_item1{
+	position: absolute;
+	top: 59px;
+	left: 90px;
+	right: 0px;
+width: 556px;height: 137px;}
+div.page18_item2{
+	position: absolute;
+	top: 761px;
+	left: 439px;
+	right: 0px;
+width: 249px;height: 195px;}
+div.page20_item1{
+	position: absolute;
+	top: 65px;
+	left: 18px;
+	right: 0px;
+width: 596px;height: 140px;}
+div.page21_item1{
+	position: absolute;
+	top: 368px;
+	left: 317px;
+	right: 0px;
+width: 226px;height: 227px;}
+div.page22_item1{
+	position: absolute;
+	top: 25px;
+	left: 303px;
+	right: 0px;
+width: 356px;height: 187px;}
+div.page23_item1{
+	position: absolute;
+	top: 446px;
+	left: 42px;
+	right: 0px;
+width: 253px;height: 194px;}
+div.page24_item1{
+	position: absolute;
+	top: 23px;
+	left: 374px;
+	right: 0px;
+width: 311px;height: 213px;}
+div.page25_item1{
+	position: absolute;
+	top: 188px;
+	left: 108px;
+	right: 0px;
+width: 197px;height: 127px;}
+div.page26_item1{
+	position: absolute;
+	top: 910px;
+	left: 258px;
+	right: 0px;
+width: 363px;height: 196px;}
+div.page28_item1{
+	position: absolute;
+	top: 155px;
+	left: 60px;
+	right: 0px;
+width: 637px;height: 259px;}
+div.page28_item2{
+	position: absolute;
+	top: 628px;
+	left: 84px;
+	right: 0px;
+width: 580px;height: 92px;}
+
+
+.arial{
+font-family: "Arial";
+}
+p.copyright{
+	color:#5B5E82;
+	font-family: "AGaramondPro-Regular";
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 21px;
+}
+
+.big{
+font-size: 25px;
+}
+p.title{
+	-webkit-text-stroke-width: 1px;
+	color:#5B5E82;
+	font-family: "MandevillaBold";
+	font-size: 18px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.title1{
+	color:#5B5E82;
+	font-family: "MandevillaBold";
+	font-size: 16px;
+	line-height: 14px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.head{
+	-webkit-text-stroke-width: 1px;
+	color:#7991BF;
+	font-family: "MandevillaBold";
+	font-size: 57px;
+	line-height: 57px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.head1{
+	-webkit-text-stroke-width: 1px;
+	color:#7991BF;
+	font-family: "MandevillaBold";
+	font-size: 85px;
+	line-height: 77px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.para{
+	-webkit-text-stroke-width:.5px;
+	color:#7991BF;
+	font-family: "MandevillaBold";
+	font-size: 25px;
+	line-height: 29px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 6px;
+	margin-bottom: 0px;
+}
+
+
+p.center{
+	-webkit-text-stroke-width:.7px;
+	color:#7991BF;
+	font-family: "MandevillaBold";
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 6px;
+	margin-bottom: 0px;
+}
+
+span.center{
+font-size: 21px;
+}
+
+p.gus{
+	font-family: "MinikRegular";
+	font-size: 54px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.media-overlay-active { 
+color:#f00 !important; 
+padding-top:10px;
+padding-bottom:10px;
+}
+
+
+@font-face{
+	font-family: "BarmbrackSC-Bold";
+	src: url(../fonts/Barmbrack-Bold.otf);
+}
+
+@font-face{
+	font-family: "Bryant-Regular";
+	src: url(../fonts/Bryant-Regular.otf);
+}
+
+@font-face{
+	font-family: "Mandevilla";
+	src: url(../fonts/Mandevilla.otf);
+}
+
+@font-face{
+	font-family: "BarmbrackSC-Bold";
+	src: url(../fonts/BarmbrackSC-Bold.otf);
+}
+@font-face{
+	font-family: "Minik-Bold";
+	src: url(../fonts/Minik-Bold.otf);
+}

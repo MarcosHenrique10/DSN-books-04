@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id94g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="85279ms" clipEnd="85809ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id94">
+			<!-- Cinderelly -->
+			<text src="../015.xhtml#w94"/>
+			<audio clipBegin="85809ms" clipEnd="87189ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id95">
+			<!-- said -->
+			<text src="../015.xhtml#w95"/>
+			<audio clipBegin="87189ms" clipEnd="87479ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id96">
+			<!-- Gus -->
+			<text src="../015.xhtml#w96"/>
+			<audio clipBegin="87479ms" clipEnd="88489ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- I -->
+			<text src="../015.xhtml#w97"/>
+			<audio clipBegin="88489ms" clipEnd="88549ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- like -->
+			<text src="../015.xhtml#w98"/>
+			<audio clipBegin="88549ms" clipEnd="89069ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- it -->
+			<text src="../015.xhtml#w99"/>
+			<audio clipBegin="89069ms" clipEnd="89209ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- when -->
+			<text src="../015.xhtml#w100"/>
+			<audio clipBegin="89209ms" clipEnd="89409ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id101">
+			<!-- you -->
+			<text src="../015.xhtml#w101"/>
+			<audio clipBegin="89409ms" clipEnd="89559ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id102">
+			<!-- sing -->
+			<text src="../015.xhtml#w102"/>
+			<audio clipBegin="89559ms" clipEnd="90109ms" src="../audio/9781484752258.m4a"/>
+		</par>
+		<par id="id102g">
+			<!--  -->
+			<text src="../015.xhtml#empty1"/>
+			<audio clipBegin="90109ms" clipEnd="90959ms" src="../audio/9781484752258.m4a"/>
+		</par>
+	</body>
+</smil>
