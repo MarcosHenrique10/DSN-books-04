@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="16215ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16215ms" clipEnd="16625ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Nature -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16625ms" clipEnd="17955ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- African -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17955ms" clipEnd="18515ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Cats -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18515ms" clipEnd="19785ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- A -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="19785ms" clipEnd="19825ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Lion's -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19825ms" clipEnd="20475ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Pride -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20475ms" clipEnd="21545ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21545ms" clipEnd="22005ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="22005ms" clipEnd="22275ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Cathy -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="22275ms" clipEnd="22795ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Hapka -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22795ms" clipEnd="23785ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Photography -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23785ms" clipEnd="24355ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- by -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="24355ms" clipEnd="24565ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Keith -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24565ms" clipEnd="25105ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Scholey -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="25105ms" clipEnd="25765ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Natasha -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25765ms" clipEnd="26205ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Breed -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="26205ms" clipEnd="27015ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Owen -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="27015ms" clipEnd="27365ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Newman -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="27365ms" clipEnd="28045ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Marguerite -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="28045ms" clipEnd="28555ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Smits -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="28555ms" clipEnd="29025ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- van -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="29025ms" clipEnd="29335ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Oyen -->
+      <text src="../003.xhtml#w23"/>
+      <audio clipBegin="29335ms" clipEnd="30055ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- and -->
+      <text src="../003.xhtml#w24"/>
+      <audio clipBegin="30055ms" clipEnd="30295ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- Oliver -->
+      <text src="../003.xhtml#w25"/>
+      <audio clipBegin="30295ms" clipEnd="30615ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Scholey -->
+      <text src="../003.xhtml#w26"/>
+      <audio clipBegin="30615ms" clipEnd="31105ms" src="../audio/9781484751152.m4a"/>
+    </par>
+    <par id="id26g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="31105ms" clipEnd="32176ms" src="../audio/9781484751152.m4a"/>
+    </par>
+  </body>
+</smil>

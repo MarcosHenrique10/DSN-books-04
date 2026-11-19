@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id178g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="112616ms" clipEnd="113711ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- The -->
+			<text src="../020.xhtml#w178"/>
+			<audio clipBegin="113711ms" clipEnd="113891ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- Aracuan -->
+			<text src="../020.xhtml#w179"/>
+			<audio clipBegin="113891ms" clipEnd="114561ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id180">
+			<!-- took -->
+			<text src="../020.xhtml#w180"/>
+			<audio clipBegin="114561ms" clipEnd="114761ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id181">
+			<!-- off -->
+			<text src="../020.xhtml#w181"/>
+			<audio clipBegin="114761ms" clipEnd="115041ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id182">
+			<!-- down -->
+			<text src="../020.xhtml#w182"/>
+			<audio clipBegin="115041ms" clipEnd="115231ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id183">
+			<!-- the -->
+			<text src="../020.xhtml#w183"/>
+			<audio clipBegin="115231ms" clipEnd="115321ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id184">
+			<!-- river -->
+			<text src="../020.xhtml#w184"/>
+			<audio clipBegin="115321ms" clipEnd="115731ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- Nothing -->
+			<text src="../020.xhtml#w185"/>
+			<audio clipBegin="115731ms" clipEnd="116291ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- could -->
+			<text src="../020.xhtml#w186"/>
+			<audio clipBegin="116291ms" clipEnd="116471ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- stop -->
+			<text src="../020.xhtml#w187"/>
+			<audio clipBegin="116471ms" clipEnd="116811ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- Donald -->
+			<text src="../020.xhtml#w188"/>
+			<audio clipBegin="116811ms" clipEnd="117171ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- now -->
+			<text src="../020.xhtml#w189"/>
+			<audio clipBegin="117171ms" clipEnd="117471ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id189g">
+			<!--  -->
+			<text src="../020.xhtml#empty1"/>
+			<audio clipBegin="117471ms" clipEnd="118116ms" src="../audio/9781368015998.m4a"/>
+		</par>
+	</body>
+</smil>

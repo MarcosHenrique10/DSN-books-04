@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15955ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15955ms" clipEnd="16515ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Nature -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16515ms" clipEnd="17675ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Chimpanzee -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17675ms" clipEnd="19515ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Oscar -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19515ms" clipEnd="20235ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- and -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="20235ms" clipEnd="20455ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Freddy -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="20455ms" clipEnd="22115ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="22115ms" clipEnd="22575ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- by -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="22575ms" clipEnd="22825ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Kristen -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="22825ms" clipEnd="23385ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- L -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="23385ms" clipEnd="23565ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Depken -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="23565ms" clipEnd="24625ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Photographs -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="24625ms" clipEnd="25275ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- by -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="25275ms" clipEnd="25485ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Martyn -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="25485ms" clipEnd="25875ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Colbeck -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="25875ms" clipEnd="26725ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Mark -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="26725ms" clipEnd="26945ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Linfield -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="26945ms" clipEnd="27885ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Kristin -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="27885ms" clipEnd="28285ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Mosher -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="28285ms" clipEnd="29135ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- and -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="29135ms" clipEnd="29255ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Bill -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="29255ms" clipEnd="29535ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Wallauer -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="29535ms" clipEnd="30065ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id22g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="30065ms" clipEnd="31067ms" src="../audio/9781484751190.m4a"/>
+    </par>
+  </body>
+</smil>

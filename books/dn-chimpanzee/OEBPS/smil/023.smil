@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id393g">
+      <!--  -->
+      <text src="../023.xhtml#empty"/>
+      <audio clipBegin="224265ms" clipEnd="225165ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id393">
+      <!-- Leaders -->
+      <text src="../023.xhtml#w393"/>
+      <audio clipBegin="225165ms" clipEnd="225755ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id394">
+      <!-- do -->
+      <text src="../023.xhtml#w394"/>
+      <audio clipBegin="225755ms" clipEnd="225975ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id395">
+      <!-- not -->
+      <text src="../023.xhtml#w395"/>
+      <audio clipBegin="225975ms" clipEnd="226325ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id396">
+      <!-- usually -->
+      <text src="../023.xhtml#w396"/>
+      <audio clipBegin="226325ms" clipEnd="226965ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id397">
+      <!-- take -->
+      <text src="../023.xhtml#w397"/>
+      <audio clipBegin="226965ms" clipEnd="227335ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id398">
+      <!-- care -->
+      <text src="../023.xhtml#w398"/>
+      <audio clipBegin="227335ms" clipEnd="227665ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id399">
+      <!-- of -->
+      <text src="../023.xhtml#w399"/>
+      <audio clipBegin="227665ms" clipEnd="227795ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id400">
+      <!-- baby -->
+      <text src="../023.xhtml#w400"/>
+      <audio clipBegin="227795ms" clipEnd="228295ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id401">
+      <!-- chimpanzees -->
+      <text src="../023.xhtml#w401"/>
+      <audio clipBegin="228295ms" clipEnd="230345ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id402">
+      <!-- Oscar -->
+      <text src="../023.xhtml#w402"/>
+      <audio clipBegin="230345ms" clipEnd="230805ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- follows -->
+      <text src="../023.xhtml#w403"/>
+      <audio clipBegin="230805ms" clipEnd="231455ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- Freddy -->
+      <text src="../023.xhtml#w404"/>
+      <audio clipBegin="231455ms" clipEnd="232085ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- anyway -->
+      <text src="../023.xhtml#w405"/>
+      <audio clipBegin="232085ms" clipEnd="233685ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- When -->
+      <text src="../023.xhtml#w406"/>
+      <audio clipBegin="233685ms" clipEnd="233915ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- Freddy -->
+      <text src="../023.xhtml#w407"/>
+      <audio clipBegin="233915ms" clipEnd="234415ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id408">
+      <!-- eats -->
+      <text src="../023.xhtml#w408"/>
+      <audio clipBegin="234415ms" clipEnd="235245ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id409">
+      <!-- Oscar -->
+      <text src="../023.xhtml#w409"/>
+      <audio clipBegin="235245ms" clipEnd="235835ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id410">
+      <!-- copies -->
+      <text src="../023.xhtml#w410"/>
+      <audio clipBegin="235835ms" clipEnd="236455ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id411">
+      <!-- him -->
+      <text src="../023.xhtml#w411"/>
+      <audio clipBegin="236455ms" clipEnd="236685ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id411g">
+      <!--  -->
+      <text src="../023.xhtml#empty1"/>
+      <audio clipBegin="236685ms" clipEnd="237622ms" src="../audio/9781484751190.m4a"/>
+    </par>
+  </body>
+</smil>

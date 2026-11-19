@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id444g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="258277ms" clipEnd="259315ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id444">
+      <!-- Freddy -->
+      <text src="../026.xhtml#w444"/>
+      <audio clipBegin="259315ms" clipEnd="259745ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id445">
+      <!-- and -->
+      <text src="../026.xhtml#w445"/>
+      <audio clipBegin="259745ms" clipEnd="260005ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id446">
+      <!-- Oscar -->
+      <text src="../026.xhtml#w446"/>
+      <audio clipBegin="260005ms" clipEnd="260845ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id447">
+      <!-- eat -->
+      <text src="../026.xhtml#w447"/>
+      <audio clipBegin="260845ms" clipEnd="261085ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id448">
+      <!-- together -->
+      <text src="../026.xhtml#w448"/>
+      <audio clipBegin="261085ms" clipEnd="262345ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id449">
+      <!-- They -->
+      <text src="../026.xhtml#w449"/>
+      <audio clipBegin="262345ms" clipEnd="262475ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id450">
+      <!-- play -->
+      <text src="../026.xhtml#w450"/>
+      <audio clipBegin="262475ms" clipEnd="262985ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id451">
+      <!-- together -->
+      <text src="../026.xhtml#w451"/>
+      <audio clipBegin="262985ms" clipEnd="263495ms" src="../audio/9781484751190.m4a"/>
+    </par>
+    <par id="id451g">
+      <!--  -->
+      <text src="../026.xhtml#empty1"/>
+      <audio clipBegin="263495ms" clipEnd="263955ms" src="../audio/9781484751190.m4a"/>
+    </par>
+  </body>
+</smil>

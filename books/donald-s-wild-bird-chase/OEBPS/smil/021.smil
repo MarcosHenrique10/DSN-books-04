@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id190g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="118116ms" clipEnd="118761ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- Not -->
+			<text src="../021.xhtml#w190"/>
+			<audio clipBegin="118761ms" clipEnd="119201ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- PIRANHAS -->
+			<text src="../021.xhtml#w191"/>
+			<audio clipBegin="119201ms" clipEnd="120171ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- not -->
+			<text src="../021.xhtml#w192"/>
+			<audio clipBegin="120171ms" clipEnd="120651ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- CROCODILES -->
+			<text src="../021.xhtml#w193"/>
+			<audio clipBegin="120651ms" clipEnd="121771ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- not -->
+			<text src="../021.xhtml#w194"/>
+			<audio clipBegin="121771ms" clipEnd="122151ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- even -->
+			<text src="../021.xhtml#w195"/>
+			<audio clipBegin="122151ms" clipEnd="122661ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- a -->
+			<text src="../021.xhtml#w196"/>
+			<audio clipBegin="122661ms" clipEnd="123371ms" src="../audio/9781368015998.m4a"/>
+		</par>
+		<par id="id196g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="123371ms" clipEnd="124531ms" src="../audio/9781368015998.m4a"/>
+		</par>
+	</body>
+</smil>
